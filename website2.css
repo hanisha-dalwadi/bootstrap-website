@@ -1,16 +1,77 @@
 .hh i{
-    color:  goldenrod;
+    color: #CDA45E;
 }
 .hh a{
     color: black !important;
-    margin-top: 0 ;
-
 }
+.nav{
+    background-color: #2D2B29;
+    color: white;
+    margin-top: 10px;
+    height: 80px;
+}
+
 .hh a:hover{
    text-decoration: underline;
    
-    color: goldenrod;
+    color: #CDA45E;
 }
 .navbar button:hover{
    background-color: #CDA45E;
+  
 }
+.nav{
+     color: white;
+}
+.page1{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    justify-content: center;
+    height: 600px;
+   
+}
+.page1 h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.page1 p{
+    font-size:25px;
+
+}
+
+.colorg{
+    color: #CDA45E;
+}
+
+.xyz a{
+    text-decoration: none;
+}
+.en{
+    color:#CDA45E ;
+}
+.de:hover{
+    color: #CDA45E;
+}
+.img {
+    background-image: url("C:\Users\Acer\Downloads\istockphoto-1428412216-1024x1024.jpg");
+}
+.book button{
+    border-radius: 50px;
+}
+.con1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    text-align: center;
+    align-items: center;
+}
+.pause{
+    font-size: 90px;
+    color:#CDA45E;
+}
+.pause:hover{
+    scale: 1.2;
+    box-shadow: 20px #CDA45E;
+}
+
