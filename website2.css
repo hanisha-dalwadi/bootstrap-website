@@ -1,0 +1,16 @@
+.hh i{
+    color:  goldenrod;
+}
+.hh a{
+    color: black !important;
+    margin-top: 0 ;
+
+}
+.hh a:hover{
+   text-decoration: underline;
+   
+    color: goldenrod;
+}
+.navbar button:hover{
+   background-color: #CDA45E;
+}
